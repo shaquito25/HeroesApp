@@ -23,7 +23,7 @@
     "static/media/marvel-captain.jpg": "/static/media/marvel-captain.71c5a519.jpg",
     "static/media/marvel-cyclops.jpg": "/static/media/marvel-cyclops.017af60c.jpg",
     "static/media/marvel-daredevil.jpg": "/static/media/marvel-daredevil.3d4c3df8.jpg",
-    "static/media/marvel-hawkeye.jpg": "/static/media/marvel-hawkeye.df41e28c.jpg",
+    "static/media/marvel-hawkeye.jpg": "./static/media/marvel-hawkeye.df41e28c.jpg",
     "static/media/marvel-hulk.jpg": "/static/media/marvel-hulk.8f5cd939.jpg",
     "static/media/marvel-iron.jpg": "/static/media/marvel-iron.8f307eef.jpg",
     "static/media/marvel-silver.jpg": "/static/media/marvel-silver.c055e4a0.jpg",
